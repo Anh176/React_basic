@@ -1,0 +1,18 @@
+.sort-header {
+    display: flex;
+    justify-content: space-between;
+    i{
+        cursor: pointer;
+        padding: 0 2px;
+    }
+}
+
+.my-3.add-new {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .group-buttons {
+        display: flex;
+        gap: 10px;
+    }
+  }
